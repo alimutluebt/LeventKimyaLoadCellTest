@@ -1,0 +1,7 @@
+C:\Users\AliMutlu\source\repos\LoadCellTestConsole\LoadCellTestConsole\bin\Debug\LoadCellTestConsole.exe.config
+C:\Users\AliMutlu\source\repos\LoadCellTestConsole\LoadCellTestConsole\bin\Debug\LoadCellTestConsole.exe
+C:\Users\AliMutlu\source\repos\LoadCellTestConsole\LoadCellTestConsole\bin\Debug\LoadCellTestConsole.pdb
+C:\Users\AliMutlu\source\repos\LoadCellTestConsole\LoadCellTestConsole\obj\Debug\LoadCellTestConsole.csprojAssemblyReference.cache
+C:\Users\AliMutlu\source\repos\LoadCellTestConsole\LoadCellTestConsole\obj\Debug\LoadCellTestConsole.csproj.CoreCompileInputs.cache
+C:\Users\AliMutlu\source\repos\LoadCellTestConsole\LoadCellTestConsole\obj\Debug\LoadCellTestConsole.exe
+C:\Users\AliMutlu\source\repos\LoadCellTestConsole\LoadCellTestConsole\obj\Debug\LoadCellTestConsole.pdb
